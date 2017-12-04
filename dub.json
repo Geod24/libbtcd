@@ -1,0 +1,9 @@
+{
+	"name": "libbtc",
+	"authors": [
+		"Mathias 'Geod24' Lang"
+	],
+	"description": "A library to play around with bitcoin",
+	"copyright": "Copyright © 2017, Mathias 'Geod24' Lang",
+	"license": "MIT"
+}
